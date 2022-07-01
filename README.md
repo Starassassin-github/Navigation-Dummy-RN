@@ -5,4 +5,5 @@
 # React Native Navigation 
 
 npm install 
+#
 npm start
