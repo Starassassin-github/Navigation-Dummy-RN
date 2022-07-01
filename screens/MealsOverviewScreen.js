@@ -16,6 +16,7 @@ function MealsOverviewScreen({ route, navigation }) {
       (category) => category.id === catId
     ).title;
 
+    // set Title Navigation
     navigation.setOptions({
       title: categoryTitle,
     });
